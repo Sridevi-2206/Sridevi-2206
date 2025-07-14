@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# readme
+## Welcome
+# Hi!! I'm Sridevi 
 # 💫 About Me:
 📡 I’m currently 3rd Year CSBS @MKCE<br>🧑‍🤝‍🧑 I’m looking to collaborate on frontend<br>🤝 I’m looking for help with React and JavaScript projects<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about HTML, CSS<br>⚡ Fun fact: I love turning designs into beautiful responsive websites!<br><br>
 
