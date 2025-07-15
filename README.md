@@ -1,5 +1,10 @@
 ## Welcome
  Hi!! I'm Sridevi 
+<p align="center">
+  <img src="https://github.com/Sridevi-2206/Sridevi-2206/blob/main/Sridevi-banner.png?raw=true" alt="Sridevi Sivakumar banner" width="100%" />
+</p>
+
+
 # 💫 About Me:
 📡 I’m currently 3rd Year CSBS @MKCE<br>🧑‍🤝‍🧑 I’m looking to collaborate on frontend<br>🤝 I’m looking for help with React and JavaScript projects<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about HTML, CSS<br>⚡ Fun fact: I love turning designs into beautiful responsive websites!<br><br>
 
